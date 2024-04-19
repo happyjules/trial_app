@@ -5,7 +5,7 @@
 Simple web app for uploading and aggregating excel data using Python pandas and flask libraries.
 
 
-###Setup
+**Setup**
 
 
 ```
@@ -13,13 +13,13 @@ Simple web app for uploading and aggregating excel data using Python pandas and 
 > pip install -r requirements.txt
 ```
 
-###Development: use debug mode to make changes to code in realtime.
+**Development: use debug mode**
 
 ```
 > python -m flask run --debug 
 ```
 
-###Run
+**Run app**
 ```
 > python -m flask run 
 ```
