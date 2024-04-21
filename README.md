@@ -9,19 +9,19 @@ Simple web app for uploading and aggregating excel data using Python pandas and 
 
 
 ```
-> python -m venv env   # Setup a virtual environment
-> pip install -r requirements.txt
+python -m venv env   # Setup a virtual environment
+pip install -r requirements.txt
 ```
 
 **Development: use debug mode**
 
 ```
-> python -m flask run --debug 
+python -m flask run --debug 
 ```
 
 **Run app**
 ```
-> python -m flask run 
+python -m flask run 
 ```
 
 
