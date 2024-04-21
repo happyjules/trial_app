@@ -23,3 +23,9 @@ Simple web app for uploading and aggregating excel data using Python pandas and 
 ```
 > python -m flask run 
 ```
+
+
+**Build exe**
+```
+python setup.py build
+```
